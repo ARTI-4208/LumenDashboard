@@ -13,3 +13,16 @@
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
+
+//= require jquery/jquery.min
+//= require bootstrap/js/bootstrap.bundle.min
+
+//= require jquery-easing/jquery.easing.min
+
+//= require chart.js/Chart.min
+//= require datatables/jquery.dataTables
+//= require datatables/dataTables.bootstrap4
+//= require sb-admin.min
+
+//= require sb-admin-datatables.min
+//= require sb-admin-charts.min
